@@ -53,7 +53,7 @@ module Pod
 #          end
 #      end
      keep_demo = :yes
-      prefix = "CMS"
+      prefix = ""
 
 #      loop do
 #        prefix = configurator.ask("What is your class prefix").upcase
